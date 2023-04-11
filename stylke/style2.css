@@ -48,7 +48,7 @@ body{
 
 .resume_wrapper .resume_item{
 	padding: 20px 0;
-	border-bottom: 1px solid orchid;
+	border-bottom: 2px solid #1D809F;
 }
 
 .resume_wrapper  .resume_item:last-child{
@@ -153,7 +153,7 @@ body{
     right: 4px;
     width: 3px;
     height: 90%;
-    background:orchid;
+    background:#1D809F;;
 }
 
 .resume_wrapper .resume_right .resume_data:last-child .year:after{
