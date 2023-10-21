@@ -11705,6 +11705,7 @@ footer.footer .social-link:hover {
   
   color: black;
   transform: rotateY(180deg);
+  position: absolute;
 }
 
 
@@ -11716,11 +11717,8 @@ footer.footer .social-link:hover {
 	font-size: 22px;
 	font-family: sans-serif;
 	margin-bottom: 40px;
-  padding-top: 25px;
+  padding-top: 25px;padding-right: 70px;
 }
-
-
-
 
 
 
